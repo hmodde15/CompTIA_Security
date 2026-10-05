@@ -1,5 +1,3 @@
-# Social Engineering — Synthèse
-
 ## 1. Social Engineering
 
 Le **Social Engineering** consiste à manipuler une personne afin de lui faire réaliser une action ou révéler une information qu'elle ne devrait normalement pas fournir.
