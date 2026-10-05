@@ -1,5 +1,3 @@
-# 12 - Data Classification and Data Security --- Synthèse
-
 ## 1. Data Classification
 
 La **data classification (classification des données)** consiste à
