@@ -1,5 +1,3 @@
-# Physical Security — Synthèse
-
 ## 1. Physical Security — Sécurité physique
 
 La **Physical Security** regroupe les mesures permettant de protéger les personnes, bâtiments, équipements, systèmes informatiques, infrastructures réseau, supports de stockage et données contre les menaces physiques.
