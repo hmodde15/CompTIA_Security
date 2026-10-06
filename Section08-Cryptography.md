@@ -1,5 +1,3 @@
-# 13 - Cryptography — Synthèse
-
 ## 1. Symmetric vs Asymmetric Encryption
 
 ### Symmetric Encryption
