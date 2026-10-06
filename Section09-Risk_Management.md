@@ -1,5 +1,3 @@
-# 14 - Risk Management — Synthèse
-
 ## 1. Risk Management
 
 Le **risk management (gestion des risques)** est le processus permettant d'identifier, d'évaluer et de traiter les incertitudes pouvant avoir un impact sur les objectifs d'une organisation ou d'un projet.
