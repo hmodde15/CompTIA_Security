@@ -1,5 +1,3 @@
-# 15 - Supply Chain Risk Management — Synthèse
-
 ## 1. Supply Chain Risk
 
 Le **supply chain risk** correspond aux risques liés aux différents acteurs externes impliqués dans la fourniture de produits, logiciels ou services à une organisation.
