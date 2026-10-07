@@ -1,5 +1,3 @@
-# Gouvernance, politiques, standards, procédures et conformité
-
 ## 1. Gouvernance
 
 ### Définition
