@@ -1,5 +1,3 @@
-# Asset Management, Acquisition et Change Management
-
 ## 1. Acquisition et Procurement
 
 **Acquisition** = processus permettant d'obtenir un bien ou un service.
