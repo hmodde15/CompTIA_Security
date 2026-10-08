@@ -1,5 +1,3 @@
-# Audits, Assessments, Penetration Testing et Attestations
-
 ## 1. Internal Audit
 
 Un **internal audit** est une évaluation systématique de l'efficacité des contrôles internes, de la conformité et de l'intégrité des systèmes d'information et des processus.
