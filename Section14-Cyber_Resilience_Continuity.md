@@ -1,5 +1,3 @@
-# Cyber Resilience, Capacity Planning, Power, Backups et Continuity Planning
-
 ## 1. Cyber Resilience
 
 La **cyber resilience** est la capacité d'une entité à continuer de fournir les résultats attendus malgré des événements cyber défavorables. Elle implique de maintenir les services essentiels, limiter l'impact d'une panne ou d'une attaque, puis récupérer les systèmes et les données.
