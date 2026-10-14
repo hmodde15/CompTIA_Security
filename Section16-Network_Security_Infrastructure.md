@@ -1,5 +1,3 @@
-# 21 — Sécurité des réseaux et infrastructures
-
 ## 1. Ports et protocoles
 
 ### 1.1 Notions de base
