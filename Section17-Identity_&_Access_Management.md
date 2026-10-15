@@ -1,5 +1,3 @@
-# 22 — Identity and Access Management (IAM)
-
 ## 1. Gestion des identités et des accès
 
 L’**Identity and Access Management (IAM)** regroupe les systèmes et processus permettant de gérer l’accès aux informations et aux ressources d’une organisation. L’objectif est que les bonnes personnes accèdent aux bonnes ressources, au bon moment et pour les bonnes raisons.
