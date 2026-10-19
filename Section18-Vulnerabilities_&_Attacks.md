@@ -1,5 +1,3 @@
-# 23 — Vulnérabilités et attaques
-
 ## 1. Vulnérabilités matérielles et systèmes
 
 Une **vulnérabilité** est une faiblesse pouvant être exploitée pour compromettre la confidentialité, l’intégrité ou la disponibilité d’un système ou de ses données.
