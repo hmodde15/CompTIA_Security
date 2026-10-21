@@ -1,5 +1,3 @@
-# Chapitre 25 — Hardening et configuration sécurisée
-
 ## 1. Hardening : réduire la surface d’attaque
 
 Le **hardening** (durcissement) consiste à configurer un système, un poste, un serveur ou une application afin de réduire les possibilités d’exploitation, tout en conservant les fonctions nécessaires.
