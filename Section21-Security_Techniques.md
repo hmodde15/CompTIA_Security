@@ -1,5 +1,3 @@
-# Chapitre 26 — Techniques de sécurité
-
 ## 1. Sécurité de l’infrastructure sans fil
 
 La sécurité Wi-Fi dépend de la portée du signal, de la couverture, de la puissance d’émission, de l’emplacement des points d’accès et des mécanismes d’authentification et de chiffrement.
