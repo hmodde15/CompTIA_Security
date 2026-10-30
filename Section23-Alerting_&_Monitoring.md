@@ -1,5 +1,3 @@
-# Chapitre 28 — Alerting et monitoring
-
 ## 1. Surveillance des ressources et baselines
 
 Le **monitoring** consiste à observer un système, une application ou une infrastructure pour comprendre son état, sa disponibilité, ses performances et les événements qui s’y produisent.
