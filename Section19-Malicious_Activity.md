@@ -1,5 +1,3 @@
-# 24 — Activités malveillantes et attaques
-
 ## 1. Déni de service (DoS et DDoS)
 
 Une attaque par **déni de service (DoS)** vise à rendre un ordinateur, un serveur ou un service indisponible en épuisant ses ressources ou en perturbant son fonctionnement. Un **DDoS** poursuit le même objectif depuis plusieurs machines simultanément, parfois contrôlées dans un botnet.
