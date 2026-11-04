@@ -1,5 +1,3 @@
-# 32 — Security Awareness — Sensibilisation à la sécurité
-
 ## 1. Security awareness — Sensibilisation à la sécurité
 
 La **security awareness** désigne la connaissance et la compréhension des menaces potentielles. Elle vise à aider les employés à reconnaître les risques et à adopter des comportements qui protègent les systèmes, les informations et l’organisation.
