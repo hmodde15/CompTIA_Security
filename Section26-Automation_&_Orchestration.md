@@ -1,5 +1,3 @@
-# 31 — Automatisation et orchestration
-
 ## 1. Automation et orchestration : définitions
 
 ### 1.1 Automation — Automatisation
