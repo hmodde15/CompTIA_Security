@@ -1,5 +1,3 @@
-# 29 — Réponse aux incidents, threat hunting et investigation forensique
-
 ## 1. Incident response process — Processus de réponse aux incidents
 
 ### 1.1 Définition
