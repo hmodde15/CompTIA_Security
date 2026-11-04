@@ -1,5 +1,3 @@
-# 30 — Investigation à partir des données
-
 ## 1. Investigating with data — Investiguer à partir des données
 
 L’investigation en cybersécurité s’appuie sur la collecte et l’analyse de données provenant des systèmes, des applications et du réseau. Ces données permettent de détecter des activités anormales, de comprendre un événement et de déterminer s’il s’agit d’une activité malveillante.
